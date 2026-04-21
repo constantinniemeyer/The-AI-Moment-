@@ -23,22 +23,25 @@
 
 <div class="podcast-embed" role="region" aria-label="Podcast: {{ p_title }}">
   {% if p_type == "notebooklm" %}
-    {% comment %} NotebookLM Audio Overview Embed {% endcomment %}
+    {% comment %} NotebookLM Audio Overview — opens in new tab (iframe embedding requires Google login and causes redirect loops) {% endcomment %}
     <div class="podcast-embed__player podcast-embed__player--notebooklm">
       <div class="podcast-embed__badge">
         <span class="podcast-embed__badge-icon">🎙️</span>
         <span>NotebookLM Audio Overview</span>
       </div>
-      <iframe
-        src="https://notebooklm.google.com/notebook/{{ p_id }}/audio"
-        title="{{ p_title }}"
-        allow="autoplay"
-        loading="lazy"
-        class="podcast-embed__iframe"
-        sandbox="allow-scripts allow-same-origin allow-popups"
-      ></iframe>
+      <div class="podcast-embed__link-container">
+        <p class="podcast-embed__link-description">This AI-generated podcast is hosted on Google NotebookLM.</p>
+        <a
+          href="https://notebooklm.google.com/notebook/{{ p_id }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="podcast-embed__open-btn"
+        >
+          🎧 Open Podcast in NotebookLM
+        </a>
+      </div>
       <p class="podcast-embed__caption">
-        🎧 AI-generated podcast by
+        AI-generated podcast by
         <a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer">Google NotebookLM</a>
       </p>
     </div>
@@ -100,16 +103,19 @@
         <span class="podcast-embed__badge-icon">🎙️</span>
         <span>NotebookLM Audio Overview</span>
       </div>
-      <iframe
-        src="https://notebooklm.google.com/notebook/{{ p_id }}/audio"
-        title="{{ p_title }}"
-        allow="autoplay"
-        loading="lazy"
-        class="podcast-embed__iframe"
-        sandbox="allow-scripts allow-same-origin allow-popups"
-      ></iframe>
+      <div class="podcast-embed__link-container">
+        <p class="podcast-embed__link-description">This AI-generated podcast is hosted on Google NotebookLM.</p>
+        <a
+          href="https://notebooklm.google.com/notebook/{{ p_id }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="podcast-embed__open-btn"
+        >
+          🎧 Open Podcast in NotebookLM
+        </a>
+      </div>
       <p class="podcast-embed__caption">
-        🎧 AI-generated podcast by
+        AI-generated podcast by
         <a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer">Google NotebookLM</a>
       </p>
     </div>
