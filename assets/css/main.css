@@ -448,6 +448,33 @@ tr:nth-child(even) { background: var(--color-bg-card); }
   border: none;
   display: block;
 }
+.podcast-embed__link-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem 1.25rem;
+  gap: 1rem;
+}
+.podcast-embed__link-description {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-faint);
+  text-align: center;
+}
+.podcast-embed__open-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.65rem 1.4rem;
+  background: var(--color-green);
+  color: #fff;
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.podcast-embed__open-btn:hover { opacity: 0.85; }
 .podcast-embed__audio {
   width: 100%;
   padding: 1rem;
