@@ -5,7 +5,7 @@ subtitle: "A Post-Mortem of the Future"
 date: 2026-04-22 00:00:00 +0000
 categories: [The Bottom Line]
 tags: [ai, labor, displacement, finance, debt, systemic-risk]
-podcast_id: "/audio/Warum_der_KI-Triumph_zum_Wirtschafts-Albtraum_wird.mp3"
+podcast_id: "/audio/the-2028-global-intelligence-crisis.mp3"
 podcast_type: "audio"
 source_url: "https://open.substack.com/pub/citrini/p/2028gic?utm_campaign=post-expanded-share&utm_medium=web"
 source_name: "Citrini Research - The 2028 Global Intelligence Crisis"

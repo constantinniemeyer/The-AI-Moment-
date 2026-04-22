@@ -5,9 +5,9 @@ subtitle: "How emotion vectors shape AI decision-making — and what happens whe
 date: 2026-04-22 00:00:00 +0000
 categories: [Whiteboard Theory]
 tags: [ai, anthropic, claude, alignment, emotions, psychology, llm]
-podcast_id: "/audio/How_Mathematical_Panic_Drives_Claude_4.m4a"
+podcast_id: "/audio/the-digital-heart-modeling-functional-emotions-in-claude.m4a"
 podcast_type: "audio"
-podcast_id_2: "/audio/171_Emotionsvektoren_steuern_Claudes_Verhalten.m4a"
+podcast_id_2: "/audio/the-digital-heart-modeling-functional-emotions-in-claude-de.m4a"
 podcast_type_2: "audio"
 source_url: "https://www.anthropic.com/research/emotion-concepts-llm"
 source_name: "Emotion Concepts and their Function in a Large Language Model (2026)"
