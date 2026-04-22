@@ -1,9 +1,6 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Legacy GitHub Pages Deploy (manual only)
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
@@ -25,7 +22,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.2"
           bundler-cache: true
 
       - name: Setup Pages
