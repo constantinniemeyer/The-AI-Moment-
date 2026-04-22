@@ -14,6 +14,11 @@ further_reading:
     url: "https://open.substack.com/pub/citrini/p/2028gic?utm_campaign=post-expanded-share&utm_medium=web"
 ---
 
+> **Why listen in?**
+>
+> For those who suspect that being "replaced by a script" is more than just an office joke, our in-depth podcast explores whether the professional class is sleepwalking into a Malthusian trap of its own making.
+
+
 In a sobering dispatch from an imagined 2028, Citrini Research diagnoses the "Global Intelligence Crisis," a thought experiment in which AI's technical triumph triggers a recursive economic tailspin.
 
 The report skewers the optimism surrounding productivity gains, revealing a "displacement spiral" where companies cannibalize their own consumer base by substituting white-collar salaries for silicon-based operating expenses.
@@ -23,8 +28,4 @@ From the wreckage of "habitual intermediation" in delivery apps to the collapse 
 This era of "Ghost GDP" finds the $13 trillion mortgage market imperiled, as the prime borrowers of 2025 become the structurally displaced indigents of 2027.
 
 It is a cautionary tale of what happens when a financial architecture built on the scarcity of human reason meets an infinite supply of the machine variety.
-
-> **Why listen in?**
->
-> For those who suspect that being "replaced by a script" is more than just an office joke, our in-depth podcast explores whether the professional class is sleepwalking into a Malthusian trap of its own making.
 
