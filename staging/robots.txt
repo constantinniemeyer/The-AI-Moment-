@@ -1,1 +1,1 @@
-Sitemap: https://constantinniemeyer.github.io/staging/sitemap.xml
+Sitemap: https://constantinniemeyer.github.io/The-AI-Moment/staging/sitemap.xml
