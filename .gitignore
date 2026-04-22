@@ -23,3 +23,7 @@ Thumbs.db
 
 # Environment
 .env
+
+# SSH Keys (NEVER commit these!)
+githubSSHKey
+githubSSHKey.pub
