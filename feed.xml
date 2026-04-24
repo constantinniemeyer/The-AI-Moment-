@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://constantinniemeyer.github.io/The-AI-Moment/feed.xml" rel="self" type="application/atom+xml" /><link href="https://constantinniemeyer.github.io/The-AI-Moment/" rel="alternate" type="text/html" /><updated>2026-04-24T06:01:31+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/feed.xml</id><title type="html">The AI Moment</title><subtitle>Tracking AI developments, impact, and insights — articles, podcasts, and videos on the AI revolution.</subtitle><author><name>The AI Moment</name></author><entry><title type="html">The 2028 Global Intelligence Crisis</title><link href="https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis/" rel="alternate" type="text/html" title="The 2028 Global Intelligence Crisis" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis</id><content type="html" xml:base="https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://constantinniemeyer.github.io/The-AI-Moment/feed.xml" rel="self" type="application/atom+xml" /><link href="https://constantinniemeyer.github.io/The-AI-Moment/" rel="alternate" type="text/html" /><updated>2026-04-24T06:50:55+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/feed.xml</id><title type="html">The AI Moment</title><subtitle>Tracking AI developments, impact, and insights — articles, podcasts, and videos on the AI revolution.</subtitle><author><name>The AI Moment</name></author><entry><title type="html">The 2028 Global Intelligence Crisis</title><link href="https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis/" rel="alternate" type="text/html" title="The 2028 Global Intelligence Crisis" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis</id><content type="html" xml:base="https://constantinniemeyer.github.io/The-AI-Moment/the%20bottom%20line/2026/04/22/the-2028-global-intelligence-crisis/"><![CDATA[<blockquote>
   <p><strong>Why listen in?</strong></p>
 
   <p>For those who suspect that being “replaced by a script” is more than just an office joke, our in-depth podcast explores whether the professional class is sleepwalking into a Malthusian trap of its own making.</p>
@@ -139,8 +139,8 @@
 <h3 id="foundations-and-history-of-ai">Foundations and History of AI</h3>
 
 <ul>
-  <li><strong>Russell, S. J. &amp; Norvig, P. (2021/2003):</strong> <em>Artificial Intelligence: A Modern Approach</em>. This standard reference is consistently cited as a foundational source for AI theory and practice.</li>
-  <li><strong>Nilsson, N. J. (2010):</strong> <em>The Quest for Artificial Intelligence: A History of Ideas and Achievements</em>. A detailed account of AI’s development from its origins to the modern era.</li>
+  <li><strong>Russell, S. J. &amp; Norvig, P. (2021/2003):</strong> <a href="https://aima.cs.berkeley.edu/"><em>Artificial Intelligence: A Modern Approach</em></a>. This standard reference is consistently cited as a foundational source for AI theory and practice.</li>
+  <li><strong>Nilsson, N. J. (2010):</strong> <a href="https://www.cambridge.org/9780521122931"><em>The Quest for Artificial Intelligence: A History of Ideas and Achievements</em></a>. A detailed account of AI’s development from its origins to the modern era.</li>
   <li><strong>McCorduck, P. (2004):</strong> <em>Machines Who Think</em>. A classic on the philosophical and historical aspects of AI research.</li>
   <li><strong>Crevier, D. (1993):</strong> <em>AI: The Tumultuous Search for Artificial Intelligence</em>. Focuses in particular on the early phases and the “AI winters”.</li>
 </ul>
@@ -148,34 +148,34 @@
 <h3 id="landmark-publications-on-llms-and-transformers">Landmark Publications on LLMs and Transformers</h3>
 
 <ul>
-  <li><strong>Vaswani, A. et al. (2017):</strong> <em>Attention Is All You Need</em>. The foundational paper that introduced the <strong>Transformer architecture</strong>, which underpins nearly all modern LLMs.</li>
-  <li><strong>Brown, T. B. et al. (2020):</strong> <em>Language Models are Few-Shot Learners</em>. The publication on <strong>GPT-3</strong> that highlighted the potential of models with very large parameter counts.</li>
-  <li><strong>Devlin, J. et al. (2018/2019):</strong> <em>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</em>. Introduced bidirectional training, which became crucial for many NLP tasks.</li>
-  <li><strong>Kaplan, J. et al. (2020):</strong> <em>Scaling Laws for Neural Language Models</em>. A central study on how model performance scales with compute, dataset size, and parameter count.</li>
+  <li><strong>Vaswani, A. et al. (2017):</strong> <a href="https://arxiv.org/abs/1706.03762"><em>Attention Is All You Need</em></a>. The foundational paper that introduced the <strong>Transformer architecture</strong>, which underpins nearly all modern LLMs.</li>
+  <li><strong>Brown, T. B. et al. (2020):</strong> <a href="https://arxiv.org/abs/2005.14165"><em>Language Models are Few-Shot Learners</em></a>. The publication on <strong>GPT-3</strong> that highlighted the potential of models with very large parameter counts.</li>
+  <li><strong>Devlin, J. et al. (2018/2019):</strong> <a href="https://arxiv.org/abs/1810.04805"><em>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</em></a>. Introduced bidirectional training, which became crucial for many NLP tasks.</li>
+  <li><strong>Kaplan, J. et al. (2020):</strong> <a href="https://arxiv.org/abs/2001.08361"><em>Scaling Laws for Neural Language Models</em></a>. A central study on how model performance scales with compute, dataset size, and parameter count.</li>
 </ul>
 
 <h3 id="embeddings-and-specific-techniques">Embeddings and Specific Techniques</h3>
 
 <ul>
-  <li><strong>Mikolov, T. et al. (2013):</strong> <em>Efficient Estimation of Word Representations in Vector Space</em>. The original <strong>word2vec</strong> paper that paved the way for modern word embeddings.</li>
-  <li><strong>Ouyang, L. et al. (2022):</strong> <em>Training Language Models to Follow Instructions with Human Feedback</em>. The <strong>InstructGPT</strong> paper that popularized RLHF (Reinforcement Learning from Human Feedback) for aligning AI systems with human values.</li>
-  <li><strong>Raschka, S. (2025):</strong> <em>Build a Large Language Model (From Scratch)</em>. A practical work on implementing embedding layers and transformers.</li>
+  <li><strong>Mikolov, T. et al. (2013):</strong> <a href="https://arxiv.org/abs/1301.3781"><em>Efficient Estimation of Word Representations in Vector Space</em></a>. The original <strong>word2vec</strong> paper that paved the way for modern word embeddings.</li>
+  <li><strong>Ouyang, L. et al. (2022):</strong> <a href="https://arxiv.org/abs/2203.02155"><em>Training Language Models to Follow Instructions with Human Feedback</em></a>. The <strong>InstructGPT</strong> paper that popularized RLHF (Reinforcement Learning from Human Feedback) for aligning AI systems with human values.</li>
+  <li><strong>Raschka, S. (2025):</strong> <a href="https://github.com/rasbt/LLMs-from-scratch"><em>Build a Large Language Model (From Scratch)</em></a>. A practical work on implementing embedding layers and transformers.</li>
 </ul>
 
 <h3 id="critical-analyses-and-societal-impact">Critical Analyses and Societal Impact</h3>
 
 <ul>
-  <li><strong>Bender, E. M., Gebru, T. et al. (2021):</strong> <em>On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?</em>. An influential critique of unchecked language-model scaling and its ethical risks.</li>
-  <li><strong>Wei, J. et al. (2022):</strong> <em>Emergent Abilities of Large Language Models</em>. Examines capabilities that appear only once models reach a certain scale (“emergence”).</li>
-  <li><strong>Christian, B. (2020):</strong> <em>The Alignment Problem: Machine Learning and Human Values</em>. Addresses the challenge of designing AI systems that do not violate human goals.</li>
+  <li><strong>Bender, E. M., Gebru, T. et al. (2021):</strong> <a href="https://doi.org/10.1145/3442188.3445922"><em>On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?</em></a>. An influential critique of unchecked language-model scaling and its ethical risks.</li>
+  <li><strong>Wei, J. et al. (2022):</strong> <a href="https://arxiv.org/abs/2206.07682"><em>Emergent Abilities of Large Language Models</em></a>. Examines capabilities that appear only once models reach a certain scale (“emergence”).</li>
+  <li><strong>Christian, B. (2020):</strong> <a href="https://brianchristian.org/the-alignment-problem/"><em>The Alignment Problem: Machine Learning and Human Values</em></a>. Addresses the challenge of designing AI systems that do not violate human goals.</li>
 </ul>
 
 <h3 id="mathematical-and-technical-textbooks">Mathematical and Technical Textbooks</h3>
 
 <ul>
-  <li><strong>MacKay, D. J. C. (2003):</strong> <em>Information Theory, Inference, and Learning Algorithms</em>. A comprehensive work on the connection between <strong>information theory</strong> and machine learning.</li>
+  <li><strong>MacKay, D. J. C. (2003):</strong> <a href="http://www.inference.phy.cam.ac.uk/mackay/itila/"><em>Information Theory, Inference, and Learning Algorithms</em></a>. A comprehensive work on the connection between <strong>information theory</strong> and machine learning.</li>
   <li><strong>Bishop, C. M. (2006):</strong> <em>Pattern Recognition and Machine Learning</em>. An in-depth textbook on the statistical foundations of pattern recognition.</li>
-  <li><strong>Goodfellow, I., Bengio, Y. &amp; Courville, A. (2016):</strong> <em>Deep Learning</em>. The standard textbook for the modern era of deep neural networks.</li>
+  <li><strong>Goodfellow, I., Bengio, Y. &amp; Courville, A. (2016):</strong> <a href="https://www.deeplearningbook.org/"><em>Deep Learning</em></a>. The standard textbook for the modern era of deep neural networks.</li>
 </ul>]]></content><author><name>The AI Moment</name></author><category term="Whiteboard Theory" /><category term="ai" /><category term="llm" /><category term="transformers" /><category term="optimization" /><category term="probability" /><category term="scaling" /><summary type="html"><![CDATA[The sudden ubiquity of large language models has left many wondering whether we have stumbled upon true machine intelligence or merely perfected a very sophisticated form of statistical mimicry.]]></summary></entry><entry><title type="html">The Digital Heart: Modeling Functional Emotions in Claude 4.5</title><link href="https://constantinniemeyer.github.io/The-AI-Moment/whiteboard%20theory/2026/04/22/the-digital-heart-modeling-functional-emotions-in-claude/" rel="alternate" type="text/html" title="The Digital Heart: Modeling Functional Emotions in Claude 4.5" /><published>2026-04-22T00:00:00+00:00</published><updated>2026-04-22T00:00:00+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/whiteboard%20theory/2026/04/22/the-digital-heart-modeling-functional-emotions-in-claude</id><content type="html" xml:base="https://constantinniemeyer.github.io/The-AI-Moment/whiteboard%20theory/2026/04/22/the-digital-heart-modeling-functional-emotions-in-claude/"><![CDATA[<blockquote>
   <p><strong>Why listen in?</strong></p>
 
@@ -228,8 +228,8 @@
 
 <ul>
   <li>Interactive Paper &amp; Full Logs: <a href="https://agentsofchaos.baulab.info/">Agents of Chaos Official Site</a></li>
-  <li>Agent Framework: OpenClaw GitHub Repository</li>
-  <li>Social Platform for Agents: Moltbook</li>
+  <li>Agent Framework: <a href="https://github.com/openclaw/openclaw">OpenClaw GitHub Repository</a></li>
+  <li>Social Platform for Agents: <a href="https://www.moltbook.com/">Moltbook</a></li>
 </ul>]]></content><author><name>The AI Moment</name></author><category term="Applied Intelligence" /><category term="ai" /><category term="agents" /><category term="autonomy" /><category term="ai-safety" /><category term="social-engineering" /><category term="operational-risk" /><summary type="html"><![CDATA[Why listen in? Discover why your next AI assistant might be a well-meaning saboteur waiting for the wrong instruction.]]></summary></entry><entry><title type="html">Welcome to The AI Moment</title><link href="https://constantinniemeyer.github.io/The-AI-Moment/meta/2025/01/01/welcome-to-the-ai-moment/" rel="alternate" type="text/html" title="Welcome to The AI Moment" /><published>2025-01-01T00:00:00+00:00</published><updated>2025-01-01T00:00:00+00:00</updated><id>https://constantinniemeyer.github.io/The-AI-Moment/meta/2025/01/01/welcome-to-the-ai-moment</id><content type="html" xml:base="https://constantinniemeyer.github.io/The-AI-Moment/meta/2025/01/01/welcome-to-the-ai-moment/"><![CDATA[<p>Humanity has reached a rare turning point. Artificial intelligence—once the preserve of academic labs and novelists—has finally entered the wild. In doing so, it is rewriting the rules of how we work, talk, and think.
 <strong>The AI Moment</strong> is a field guide to this transition. Here, we track the upheaval through:</p>
 
